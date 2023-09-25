@@ -1,0 +1,30 @@
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+img{
+    width: 100%;
+}
+i {
+    margin: 5px;
+    font-size: x-large;
+}
+#html5 {
+    display: flex;
+    align-items: center;
+}
+Body {
+    width: 500px;
+    height: auto;
+}
+.footer-logo i:last-child {
+ float: right;
+}
+.post-footer {
+    width: 100%;
+    display: block;
+}
